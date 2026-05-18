@@ -1,4 +1,4 @@
-## GitHub Link to task 3 -> https://github.com/ddmeghana/ApexPlanet_Task3_Interactive_Dashboard.git
+##### GitHub Link to task 3 -> https://github.com/ddmeghana/ApexPlanet_Task3_Interactive_Dashboard.git
 
 # Superstore Business Performance Analysis – Task 4
 
